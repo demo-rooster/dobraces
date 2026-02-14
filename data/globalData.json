@@ -1,77 +1,114 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Davis Orthodontics",
+  "domain": "dobraces.com",
+  "email": "info@dobraces.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "1.803.739.1600",
+    "href": "tel:+18037391600",
+    "aria": "1 8 0 3, 7 3 9, 1 6 0 0"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "West Columbia",
       "address": {
-        "street": "9650 Main Street",
+        "street": "143 Medical Circle",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "West Columbia, SC 29169",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-81.1131313",
+          "latitude": "34.0023215"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "1.803.739.1600",
+        "href": "tel:+18037391600"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@dobraces.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Mon",
+          "time": "8:00AM - 4:30PM"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Tue",
+          "time": "8:00AM - 4:30PM"
         },
         {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Wed",
+          "time": "8:00AM - 4:30PM"
         },
         {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
+          "day": "Thu",
+          "time": "8:00AM - 4:30PM"
         },
         {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Fri",
+          "time": "Administrative Day and Scheduled Emergency Appointments"
+        },
+        {
+          "day": "Sat",
+          "time": "Closed"
+        },
+        {
+          "day": "Sun",
+          "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=143+Medical+Circle+West+Columbia+SC+29169",
         "label": "Get Directions"
       },
       "special_note": ""
     },
     {
-      "title": "Tonawanda Office",
+      "title": "Irmo",
       "address": {
-        "street": "1077 Delaware Rd",
-        "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "street": "11132 Broad River Road",
+        "suite": "Suite D",
+        "city_state": "Irmo, SC 29063",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "1.803.739.1600",
+        "href": "tel:+18037391600"
       },
-      "email": "info@mandtortho.com",
-      "hours": [],
+      "email": "info@dobraces.com",
+      "hours": [
+        {
+          "day": "Mon",
+          "time": "Third Monday Each Month"
+        },
+        {
+          "day": "Tue",
+          "time": "8:00AM - 4:30PM"
+        },
+        {
+          "day": "Wed",
+          "time": "First Wednesday Each Month"
+        },
+        {
+          "day": "Thu",
+          "time": "Closed"
+        },
+        {
+          "day": "Fri",
+          "time": "Closed"
+        },
+        {
+          "day": "Sat",
+          "time": "Closed"
+        },
+        {
+          "day": "Sun",
+          "time": "Closed"
+        }
+      ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=11132+Broad+River+Road+Suite+D+Irmo+SC+29063",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -95,27 +132,27 @@
     "links": [
       {
         "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "text": "143 Medical Circle, West Columbia, SC 29169",
+        "href": "https://www.google.com/maps/search/?api=1&query=143+Medical+Circle+West+Columbia+SC+29169",
+        "label": "View 143 Medical Circle, West Columbia, SC 29169 on Google Maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "1.803.739.1600",
+        "href": "tel:+18037391600",
+        "label": "Call 1 8 0 3. 7 3 9. 1 6 0 0.",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "Now accepting new patients",
+      "text": "Now welcoming new patients — schedule an initial consultation at Davis Orthodontics.",
+      "mobile_text": "Now accepting new patients",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Now welcoming new patients",
+        "text": "<p>Davis Orthodontics offers personalized orthodontic care for children, teens, and adults across West Columbia and Irmo. Call us or request an appointment online to start your smile journey.</p>"
       }
     }
   },
@@ -150,7 +187,19 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/DavisOrthodontics",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/dobraces/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://www.tiktok.com/@dobraces?lang=en",
+        "icon": "tiktok"
+      },
+      {
+        "href": "https://www.youtube.com/@DavisOrthodontics",
         "icon": "youtube"
       }
     ],
@@ -158,7 +207,7 @@
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to Davis Orthodontics",
     "text": "",
     "image": {
       "src": "",
